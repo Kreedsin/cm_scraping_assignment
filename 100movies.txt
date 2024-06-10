@@ -1,4 +1,3 @@
-Movie
 100) Stand By Me
 99) Raging Bull
 98) Amelie
@@ -14,7 +13,7 @@ Movie
 88) The Exorcist
 87) Predator
 86) Indiana Jones And The Last Crusade
-85) LÃ©on
+85) Léon
 84) Rocky
 83) True Romance
 82) Some Like It Hot
@@ -40,7 +39,7 @@ Movie
 62) La La Land
 61) Forrest Gump
 60) American Beauty
-59) E.T. â The Extra Terrestrial
+59) E.T. – The Extra Terrestrial
 58) Inglourious Basterds
 57) Whiplash
 56) Reservoir Dogs
@@ -72,7 +71,7 @@ Movie
 30) Seven
 29) The Big Lebowski
 28) Casablanca
-|27) The Good, The Bad And The Ugly|
+27) The Good, The Bad And The Ugly
 26) Heat
 25) Terminator 2: Judgment Day
 24) The Matrix
@@ -87,7 +86,7 @@ Movie
 15) Aliens
 14) Alien
 13) Blade Runner
-12: The Godfather Part II
+12) The Godfather Part II
 11) Back To The Future
 10) The Lord Of The Rings: The Fellowship Of The Ring
 9) Star Wars
